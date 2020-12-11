@@ -10,8 +10,13 @@
 
 ### 개발 기간
 2020-11-28 ~ 2020-12-01
-</br> 
 </br>  
+</br>  
+
+### 사용 기술
+* Java
+* Swing
+* Oracle Database
 
 
 ### 주요 기능
@@ -28,8 +33,5 @@
 </br> 
 </br>  
   
-### 사용 기술
-* Java
-* Swing
-* Oracle Database
+
 
