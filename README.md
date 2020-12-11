@@ -4,14 +4,15 @@
 :notebook_with_decorative_cover: Introduction
 - 
 ### 시연 영상 (https://youtu.be/3bLoxzV6tKE)
-[![이미지 텍스트](https://user-images.githubusercontent.com/62657545/101877195-fa174f00-3bd0-11eb-976b-d793af829eb7.png)](https://youtu.be/3bLoxzV6tKE)
+[![이미지 텍스트](https://user-images.githubusercontent.com/62657545/101889687-0906fd00-3be3-11eb-9a0f-5b25eb8f4b85.png)](https://youtu.be/3bLoxzV6tKE)
 </br>
 </br>
 
 ### 개발 기간
 2020-11-28 ~ 2020-12-01
-</br>
+</br> 
 </br>  
+
 
 ### 주요 기능
 * 로그인 / 회원 가입
@@ -26,8 +27,6 @@
 * (관리자) 강의 관리 - 강의 신규 등록 및 삭제
 </br> 
 </br>  
-
-
 ### 사용 기술
 * Java
 * Swing
